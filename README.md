@@ -2,10 +2,10 @@
 
 ![Captura de Tela (359)](https://user-images.githubusercontent.com/95312789/186534080-fd37d983-abb7-4b96-aef6-21960ffd4bf9.png)
 
-<h2>Descrição:</h2>
-<p>Neste aplicação você pode se cadastrar, fazer login, criar uma lista de contatos, editala ou excluila.</p>
+<h2>🧾 Descrição</h2>
+<p>Nesta aplicação você poderá se cadastrar, fazer login, criar uma lista de contatos, editala ou excluila.</p>
 
-## Instalação
+## 📥 Instalação
 + Importante: Você deve ter instalado o Node.js, Git e ter uma conta no MongoDB Atlas.
 + E então você deve fazer um arquivo chamado ".env" no repositório root e colocar sua string de conexão gerada pelo MongoDB Atlas, semelhante a esta:CONECTIONSTRING=PutYourConectionStringHere
 
